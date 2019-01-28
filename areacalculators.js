@@ -22,4 +22,3 @@ function calculateCircleArea(radius){
   }
 }
 console.log(calculateCircleArea(10));
-console.log(15 === "15")
